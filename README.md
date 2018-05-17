@@ -1,4 +1,5 @@
 # Shattered-Pixel-Dungeon-FAN-Edition
+          # Desktop only
 
 This version contains minor changes that i like.  
        - default music volume from 10 to 5  
