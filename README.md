@@ -12,4 +12,4 @@ This version contains minor changes that i like.
        - player strength from 10 to 20  
        and more ...  
 
-Source Code GitHub: https://github.com/00-Evan/shattered-pixel-dungeon-gdx
+Based on 00-Evan Source Code, GitHub: https://github.com/00-Evan/shattered-pixel-dungeon-gdx
